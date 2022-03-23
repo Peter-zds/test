@@ -1,3 +1,8 @@
 This is a text. 
+<<<<<<< HEAD
 second revise
 6th revise based on 93a61f2
+=======
+second revise ammend
+5th revise
+>>>>>>> dev
